@@ -1,6 +1,6 @@
-# Pizzería Mamma Mía
+# Pizzería Mamma Mía Hito3
 
-#Link del Deploy: 
+#Link del Deploy: https://hito3-pizzeria-mamma-m-a.vercel.app/
 
 Landing page de una pizzería ficticia, hecha con React y Vite. En este hito se implementó la renderización dinámica de componentes: el catálogo de pizzas se genera recorriendo un array de datos en vez de tarjetas escritas a mano, y se agregó un carrito de compras simulado con manejo de cantidades y cálculo de total en tiempo real.
 
